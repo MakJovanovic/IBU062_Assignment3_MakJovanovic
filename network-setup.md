@@ -11,3 +11,5 @@ pc 0 210.3.14.14
 pc 1 210.3.14.13
 pc4 210.3.14.15
 ...................
+
+I configured the routers and the ip addresses so they avoid conflicts than i created dhcp pools for both networks
